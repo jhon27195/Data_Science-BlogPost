@@ -1,4 +1,15 @@
 # Write-a-Data-Science-BlogPost
+### Project Motivation
+This project Write a Data Science Blog Post is part of my deliverable of Udacity Data Scientists Nanodegree Program.
+
+I used Seattle Airbnb Dataset for this project. Said data is located at the following address: https://www.kaggle.com/datasets/airbnb/seattle/data
+
+The project aims to answer the following business questions:
+ - What are the months of greatest demand in the year?
+
+- What is the type of rooms and how many of each?
+
+- What is the average price per room type?
 
 ### Libraries
 The libraries I used in my Jupyter Notebook:
