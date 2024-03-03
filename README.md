@@ -1,5 +1,5 @@
 
-# Write-a-Data-Science-BlogPost
+# Data Science-BlogPost
 
 ## GitHub
 You can find my blog post 
