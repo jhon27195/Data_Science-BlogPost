@@ -12,7 +12,8 @@ The libraries I used in my Jupyter Notebook:
 ### File Descriptions
 
 Seattle Airbnb Data(opens in a new tab)
-The Seattle Airbnb homes data can be used at the above link. You might pair this with the Boston Airbnb data, which can be found at the link below.
+The Seattle Airbnb homes data can be used at the above link. You might pair this with the Boston Airbnb data-
+
 listings.csv and calendar.csv
 Original dataset in csv format
 
