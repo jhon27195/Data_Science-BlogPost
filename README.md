@@ -1,4 +1,11 @@
+
 # Write-a-Data-Science-BlogPost
+
+## GitHub
+You can find my blog post 
+
+https://github.com/jhon27195/Write-a-Data-Science-BlogPost/blob/main/ProjectBlog.ipynb
+
 ### Project Motivation
 This project Write a Data Science Blog Post is part of my deliverable of Udacity Data Scientists Nanodegree Program.
 
