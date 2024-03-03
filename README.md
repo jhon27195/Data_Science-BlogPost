@@ -2,7 +2,8 @@
 # Data Science-BlogPost
 
 ## Medium Blog Post
-You can find my blog post 
+You can find my blog post:
+
 https://medium.com/@jose.sorto/project-writing-a-data-scientist-blog-post-seattle-airbnb-data-7e92810e6e12
 ### Project Motivation
 This project Write a Data Science Blog Post is part of my deliverable of Udacity Data Scientists Nanodegree Program.
